@@ -55,7 +55,7 @@ section {
 .about-header{
   font-family: 'Mulish';
   font-weight: 600;
-  font-size: 1.6em;
+  font-size: 1.2em;
   text-align: center;
   text-transform: none;
   color: #bbbbbb;
@@ -65,7 +65,7 @@ section {
   color: #000;
   font-family: 'Mulish';
   font-weight: 400;
-  font-size: 1em;
+  font-size: 0.8em;
   text-align: center;
   letter-spacing: 1px;
   padding-bottom: 30px;
@@ -135,5 +135,11 @@ textarea{
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
       color: rgb(69, 129, 249);
       background: #fff;
+  }
+  .about-header{
+    font-size: 1.6em;
+  }
+  .about-body{
+    font-size: 1em;
   }
 }
