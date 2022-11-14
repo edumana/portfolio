@@ -1,0 +1,136 @@
+.text-secondary {
+  color: #000000 !important;
+}
+
+#me {
+  width: 15vw;
+  border-radius: 50%;
+}
+.header{
+  height: 10vh;
+}
+
+.container{
+  padding: 0 80px;
+}
+
+.modal-body{
+  padding: 40px 0;
+}
+
+.bg-primary {
+  background-color: #fff !important;
+}
+
+.bg-secondary {
+  background-color: #fff !important;
+}
+
+img {
+  padding-top: 20px;
+}
+
+#mainNav .navbar-brand {
+  color: rgb(52, 52, 52);
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link {
+  color: rgb(52, 52, 52);
+}
+
+a {
+  color: rgb(52, 52, 52);
+}
+
+section {
+  padding: 6rem 0;
+}
+
+.btn{
+  color: #000;
+  border-color: #000;
+}
+
+.about-header{
+  font-family: 'Mulish';
+  font-weight: 200;
+  font-size: 1.4em;
+  text-align: center;
+  text-transform: none;
+  color: #000000;
+}
+
+.project-link{
+  font-family: 'Mulish';
+  color:rgb(69, 129, 249);
+}
+
+h2{
+  font-family: 'Syncopate';
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+.about-body{
+  color: rgb(98, 98, 98);
+  font-family: 'Mulish';
+  font-weight: 400;
+  font-size: 1em;
+  text-align: center;
+  letter-spacing: 1px;
+  padding-bottom: 30px;
+}
+.project-text{
+  color: #000;
+  font-family: 'Mulish';
+  font-weight: 200;
+  text-align: left;
+  font-size: 1em;
+}
+
+.project-tech{
+  color: #000;
+  font-family: 'Mulish';
+  font-weight: 600;
+  text-align: center;
+  font-size: 0.8em;
+  padding-top: 20px;
+}
+
+.contact{
+  font-family: 'Syncopate';
+  font-weight: 200;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 2em;
+}
+
+input{
+  font-family: 'Mulish';
+  font-size: 0.8em;
+}
+
+textarea{
+  font-family: 'Mulish';
+  font-size: 0.8em;
+}
+
+.fa{
+  color: #000;
+}
+
+.footer-text{
+  font-family: 'Syncopate';
+  font-size: 0.8em;
+}
+
+#mainNav .navbar-toggler {
+  border: none;
+}
+
+@media (min-width: 992px){
+  #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
+      color: rgb(69, 129, 249);
+      background: #fff;
+  }
+}
