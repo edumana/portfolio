@@ -131,6 +131,11 @@ textarea{
   border: none;
 }
 
+.col-lg-8 {
+  flex: 0 0 auto;
+  width: auto;
+}
+
 @media (min-width: 992px){
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
       color: rgb(69, 129, 249);
