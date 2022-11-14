@@ -6,12 +6,13 @@
   width: 15vw;
   border-radius: 50%;
 }
+
 .header{
   height: 10vh;
 }
 
 .container{
-  padding: 0 80px;
+  padding: 0 6vw;
 }
 
 .modal-body{
@@ -102,7 +103,8 @@ h2{
   font-weight: 200;
   text-align: center;
   text-transform: capitalize;
-  font-size: 2em;
+  font-size: 1.5em;
+  color:rgb(98, 98, 98)
 }
 
 input{
