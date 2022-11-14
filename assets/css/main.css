@@ -133,7 +133,7 @@ textarea{
 
 .col-lg-8 {
   flex: 0 0 auto;
-  width: auto;
+  width: 100%;
 }
 
 @media (min-width: 992px){
