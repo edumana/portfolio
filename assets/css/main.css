@@ -39,6 +39,7 @@ img {
   color: rgb(52, 52, 52);
   font-size: 0.9em;
   font-weight: 700;
+  padding-top: 8px;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
