@@ -11,6 +11,10 @@
   height: 10vh;
 }
 
+#about{
+  padding: 20vh 0;
+}
+
 .container{
   padding: 0 6vw;
 }
@@ -33,6 +37,8 @@ img {
 
 #mainNav .navbar-brand {
   color: rgb(52, 52, 52);
+  font-size: 1em;
+  font-weight: 700;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
@@ -44,7 +50,7 @@ a {
 }
 
 section {
-  padding: 6rem 0;
+  padding: 4rem 0;
 }
 
 .btn{
@@ -54,7 +60,7 @@ section {
 
 .about-header{
   font-family: 'Mulish';
-  font-weight: 600;
+  font-weight: 400;
   font-size: 1.4em;
   text-align: center;
   text-transform: none;
@@ -64,7 +70,7 @@ section {
 .about-body{
   color: #000;
   font-family: 'Mulish';
-  font-weight: 400;
+  font-weight: 200;
   font-size: 0.8em;
   text-align: center;
   letter-spacing: 1px;
@@ -136,15 +142,21 @@ textarea{
   width: 100%;
 }
 
+#mainNav.navbar-shrink .navbar-brand {
+  font-size: 1.3em;
+}
+
 @media (min-width: 992px){
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
       color: rgb(69, 129, 249);
       background: #fff;
   }
   .about-header{
-    font-size: 1.6em;
+    font-size: 2.2em;
+    padding-bottom: 20px;
+    font-weight: 400;
   }
   .about-body{
-    font-size: 1em;
+    font-size: 1.4em;
   }
 }
