@@ -138,6 +138,15 @@ h2{
 .about-subheader{
   color:rgb(113, 113, 113);
   font-family: 'Mulish';
+  text-align: justify;
+  font-weight: 400;
+  font-size: 1.05em;
+  padding-bottom: 15px;
+  margin-bottom: 0px;
+}
+
+.emoji{
+  
   text-align: center;
   font-weight: 400;
   font-size: 1.05em;
