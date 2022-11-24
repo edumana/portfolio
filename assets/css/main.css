@@ -94,7 +94,7 @@ section {
   font-size: 0.8em;
   text-align: center;
   letter-spacing: 1px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
 }
 
 .project-link{
@@ -139,7 +139,8 @@ h2{
   font-family: 'Mulish';
   text-align: center;
   font-weight: 300;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
+  margin-bottom: 0px;
 }
 
 input{
