@@ -11,6 +11,10 @@
   height: 10vh;
 }
 
+#burger{
+  padding-right: 0 !important;
+}
+
 #about{
   padding-top: 6vh;
   max-width: 720px;
