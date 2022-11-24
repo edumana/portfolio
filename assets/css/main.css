@@ -12,11 +12,22 @@
 }
 
 #about{
-  padding: 20vh 0;
+  padding-top: 8vh;
+  max-width: 850px;
+  margin: auto;
+  padding-bottom: 12vh;
 }
 
 .container{
-  padding: 0 6vw;
+  padding: 0 5vw;
+}
+
+.avatar-container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
 }
 
 .modal-body{
@@ -66,6 +77,14 @@ section {
   text-align: center;
   text-transform: none;
   color: #aeaeae;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
+
+.avatar{
+  width: 230px;
+  border-radius: 50%;
+  padding: 0;
 }
 
 .about-body{
@@ -115,6 +134,14 @@ h2{
   color:rgb(98, 98, 98)
 }
 
+.about-subheader{
+  color:#000;
+  font-family: 'Mulish';
+  text-align: center;
+  font-weight: 300;
+  padding-bottom: 10px;
+}
+
 input{
   font-family: 'Mulish';
   font-size: 0.8em;
@@ -153,12 +180,12 @@ textarea{
       background: #fff;
   }
   .about-header{
-    font-size: 2.2em;
+    font-size: 1.6em;
     padding-bottom: 5px;
     font-weight: 400;
   }
   .about-body{
-    font-size: 1.4em;
+    font-size: 1em;
     font-weight: 200;
   }
 }
