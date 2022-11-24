@@ -13,13 +13,19 @@
 
 #about{
   padding-top: 6vh;
-  max-width: 850px;
+  max-width: 750px;
   margin: auto;
   padding-bottom: 10vh;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .container{
-  padding: 0 7vw;
+  padding: 0 5vw;
+}
+
+.container-about{
+  padding: 0;
 }
 
 .avatar-container{
@@ -143,7 +149,6 @@ h2{
   font-size: 1.05em;
   padding-bottom: 15px;
   margin-bottom: 0px;
-  padding-left: 30px;
 }
 
 .emoji{
