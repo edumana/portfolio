@@ -73,7 +73,7 @@ section {
 .about-header{
   font-family: 'Mulish';
   font-weight: 600;
-  font-size: 1.4em;
+  font-size: 1.2em;
   text-align: center;
   text-transform: none;
   color: #aeaeae;
@@ -82,7 +82,7 @@ section {
 }
 
 .avatar{
-  width: 230px;
+  width: 160px;
   border-radius: 50%;
   padding: 0;
 }
@@ -180,7 +180,7 @@ textarea{
       background: #fff;
   }
   .about-header{
-    font-size: 1.5em;
+    font-size: 1.4em;
     padding-bottom: 5px;
     font-weight: 400;
   }
