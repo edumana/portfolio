@@ -204,15 +204,18 @@ textarea{
       background: #fff;
   }
   .about-header{
-    font-size: 1.4em;
+    font-size: 1.2em;
     padding-bottom: 5px;
     font-weight: 600;
   }
   .about-subheader{
-    font-size: 1em;
+    font-size: 0.9em;
   }
   .about-body{
     font-size: 1em;
     font-weight: 200;
+  }
+  .container-about{
+    padding: 30px 50px;
   }
 }
